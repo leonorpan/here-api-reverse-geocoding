@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  margin: 20% 10%;
+}
+
+#drop_zone {
+  border: 1px solid gray;
+  padding: 40px 20px;
+}
