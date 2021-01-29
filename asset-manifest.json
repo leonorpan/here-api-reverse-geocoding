@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%20here-api-reverse-geocoding/static/css/main.52add837.chunk.css",
+    "main.js": "/%20here-api-reverse-geocoding/static/js/main.9e3a0938.chunk.js",
+    "main.js.map": "/%20here-api-reverse-geocoding/static/js/main.9e3a0938.chunk.js.map",
+    "runtime-main.js": "/%20here-api-reverse-geocoding/static/js/runtime-main.7ca3f4d1.js",
+    "runtime-main.js.map": "/%20here-api-reverse-geocoding/static/js/runtime-main.7ca3f4d1.js.map",
+    "static/js/2.c4d2a520.chunk.js": "/%20here-api-reverse-geocoding/static/js/2.c4d2a520.chunk.js",
+    "static/js/2.c4d2a520.chunk.js.map": "/%20here-api-reverse-geocoding/static/js/2.c4d2a520.chunk.js.map",
+    "index.html": "/%20here-api-reverse-geocoding/index.html",
+    "static/css/main.52add837.chunk.css.map": "/%20here-api-reverse-geocoding/static/css/main.52add837.chunk.css.map",
+    "static/js/2.c4d2a520.chunk.js.LICENSE.txt": "/%20here-api-reverse-geocoding/static/js/2.c4d2a520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca3f4d1.js",
+    "static/js/2.c4d2a520.chunk.js",
+    "static/css/main.52add837.chunk.css",
+    "static/js/main.9e3a0938.chunk.js"
+  ]
+}
